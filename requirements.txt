@@ -1,0 +1,16 @@
+torch>=2.0.0
+torchvision
+transformers>=4.28.0
+datasets
+accelerate
+peft
+opencv-python-headless
+Pillow
+pytesseract
+google-cloud-vision
+seqeval
+scikit-learn
+numpy
+pandas
+matplotlib
+cv2
