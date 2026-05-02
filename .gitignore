@@ -1,1 +1,3 @@
 OurFine-TunedModels/ 
+*.bin
+Dataset/SROIE2019/layoutlm-base-uncased/
